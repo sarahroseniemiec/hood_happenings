@@ -10,11 +10,11 @@ This is a Ruby on Rails application using
 Ruby version 2.4.0
 Database: SQLite 3 in development and PostgreSQL in produciton
 
-Gems used
+### Gems used
 * Devise
 * Simple calendar
 * Geokit
 
-APIs used
+### APIs used
 * Google Maps
 * SendGrid
